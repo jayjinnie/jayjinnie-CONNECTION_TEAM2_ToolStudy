@@ -7,6 +7,6 @@
 
 `3주 기초통계 | 가설검정`
 
-`4주 가설검정 실습`
+`4주 BeautifulSoup | WordCloud`
 
-`5주 BeautifulSoup | WordCloud`
+`5주 가설검정 실습`
